@@ -1,0 +1,3 @@
+scanner
+IPaddress:149.61.45.158
+port:1234

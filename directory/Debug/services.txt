@@ -1,0 +1,89 @@
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158
+
+serviceid:1
+servicename:scanner
+servicetypeid:sc
+IPaddress:149.61.45.158
+port:1234
+timestamp:21-10-2015 13-47-15
+servicestatus:1
+lifespan=0
+instructions:scanner is active at 149.61.45.158

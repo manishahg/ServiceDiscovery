@@ -1,0 +1,20 @@
+ECEG75803@126.com
+ssh, putty
+
+scp -i ~/Downloads/eceg03.pem ~/Downloads/client.cpp ubuntu@ec2-54-152-121-167.compute-1.amazonaws.com:~
+
+ssh -i ~/Downloads/eceg03.pem ubuntu@ec2-54-152-121-167.compute-1.amazonaws.com
+
+
+chmod 600 key.em
+
+display
+ssh -X "your_login"
+set inbound and outbound limits to ssh and tcp
+
+
+sudo apt-get update
+sudo apt-get install make
+sudo apt-get install gcc
+sudo apt-get install tclsh
+sudo apt-get install tk8.5
